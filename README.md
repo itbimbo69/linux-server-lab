@@ -8,7 +8,8 @@ Overview
 
 This project documents the deployment and administration of an internet-facing Linux server.
 
-The lab is used to explore real-world server operations, including SSH administration, network exposure, authentication logs, firewall configuration, containerization, and automated security monitoring.
+The lab is used to explore real-world server operations, including SSH administration, network exposure, authentication logs, firewall configuration, containerization, and automated security monitoring. I rented a VPS running Debian 13 (Trixie) and decided to use it as a personal Linux laboratory.
+Instead of following only theoretical tutorials, I am learning by exploring and configuring a real server step by step
 
 Security Monitoring
 
