@@ -50,9 +50,9 @@ Progress
 
 - [x] Deploy and access the server via SSH
 - [ ] Create a dedicated administrative user
-- [ ] Configure SSH key authentication
-- [ ] Configure firewall rules
-- [ ] Analyze SSH authentication logs
+- [x] Configure SSH key authentication
+- [x] Configure firewall rules
+- [x]Analyze SSH authentication logs
 - [ ] Implement intrusion prevention
 - [ ] Deploy Docker containers
 - [ ] Configure Nginx as a reverse proxy
